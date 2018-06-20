@@ -8,7 +8,7 @@
 		this.init();
 	}
 
-	Litebox.prototype.init = function () {
+	LiteBox.prototype.init = function () {
 		var self = this;
 
 		var init = function(){
